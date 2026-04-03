@@ -8,20 +8,20 @@ export function AboutSection() {
         <div className="grid gap-10 lg:grid-cols-2 lg:items-center lg:gap-16">
           <div className="order-2 lg:order-1">
             <h2 className="mb-5 text-balance text-3xl font-bold text-foreground md:text-4xl">
-              Conheça Tauro Luetkemeyer
+              Sobre nossa empresa
             </h2>
             <div className="space-y-4 text-base leading-relaxed text-foreground">
               <p>
-                <strong className="font-bold text-primary">Tauro Luetkemeyer</strong> fundou a ServiçosTauro há 8 anos
-                com uma missão clara: oferecer serviços de qualidade com a força e dedicação do touro.
+                <strong className="font-bold text-primary">A Tauro Serviços</strong>  é uma empresa consolidada no mercado há mais de 7 anos,
+                 levando qualidade, confiança e excelentes resultados aos seus clientes. Especializada em jardinagem, elétrica e pintura, 
+                 a empresa também oferece diversos outros serviços gerais, sempre com foco em atender diferentes necessidades com eficiência e profissionalismo.
               </p>
               <p>
-                Com uma trajetória profissional diversificada que inclui experiência como caminhoneiro da Parmalat e
-                especialização através de diversos cursos técnicos, Tauro construiu sua expertise em elétrica, pintura,
-                jardinagem e manutenção geral.
+                Com uma equipe experiente e dedicada, a Tauro Serviços se destaca pelo compromisso com o trabalho bem feito, prezando por acabamentos impecáveis
+                 e soluções duradouras. Ao longo dos anos, conquistou a confiança de seus clientes através de serviços de alta qualidade e atenção aos detalhes.
               </p>
               <p>
-                Hoje, a <strong className="font-bold text-primary">ServiçosTauro</strong> é referência em Porto Alegre e
+                Hoje, a <strong className="font-bold text-primary">TauroServiços</strong> é referência em Porto Alegre e
                 região, atendendo residências, empresas e condomínios com o mesmo compromisso de qualidade.
               </p>
             </div>
