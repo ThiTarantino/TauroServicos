@@ -26,7 +26,7 @@ export function Header() {
             className="h-12 w-12 rounded-xl object-cover shadow-lg"
           />
           <div>
-            <span className="block text-xl font-bold leading-none text-primary">ServiçosTauro</span>
+            <span className="block text-xl font-bold leading-none text-primary">TauroServiços</span>
             <span className="block text-xs font-semibold leading-relaxed text-secondary">Força do Touro</span>
           </div>
         </div>

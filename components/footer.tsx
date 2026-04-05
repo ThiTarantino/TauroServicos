@@ -19,7 +19,7 @@ export function Footer() {
                 </svg>
               </div>
               <div>
-                <span className="block text-xl font-bold">ServiçosTauro</span>
+                <span className="block text-xl font-bold">TauroServiços</span>
                 <span className="block text-sm font-medium text-secondary">Força do Touro</span>
               </div>
             </div>
